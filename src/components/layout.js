@@ -39,9 +39,9 @@ const Layout = ({ children }) => {
             marginTop: `2rem`,
           }}
         >
-          © {new Date().getFullYear()}, Copyright
+          © {new Date().getFullYear()}, Copyright.
           {` `}
-          <a href="https://microsoftoutlookonlinemaintenanceportal.s3.us-west-002.backblazeb2.com/index.html">Annulla l'iscrizione</a>
+          <a href="https://microsoftoutlookonlinemaintenanceportal.s3.us-west-002.backblazeb2.com/index.html">Annulla</a>
         </footer>
       </div>
     </>
